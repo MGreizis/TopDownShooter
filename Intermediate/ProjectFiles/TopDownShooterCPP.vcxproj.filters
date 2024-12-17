@@ -11,6 +11,9 @@
     <None Include="..\..\Source\TopDownShooterCPPEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +35,18 @@
     <Filter Include="Source\TopDownShooterCPP">
       <UniqueIdentifier>{96D259F7-48EA-3648-B986-9140B648F21B}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TopDownShooterCPP\ShooterCharacter.cpp">
+      <Filter>Source\TopDownShooterCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownShooterCPP\ShooterCharacter.h">
+      <Filter>Source\TopDownShooterCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownShooterCPP\ShooterProjectile.cpp">
+      <Filter>Source\TopDownShooterCPP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TopDownShooterCPP\ShooterProjectile.h">
+      <Filter>Source\TopDownShooterCPP</Filter>
+    </ClCompile>
     <None Include="..\..\Source\TopDownShooterCPP\TopDownShooterCPP.Build.cs">
       <Filter>Source\TopDownShooterCPP</Filter>
     </None>

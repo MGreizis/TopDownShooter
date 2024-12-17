@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeTopDownShooterCPP_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB1EFDCBE,
-				0x5654947A,
+				0x326739B2,
+				0x1A1803CF,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_TopDownShooterCPP.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_TopDownShooterCPP.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TopDownShooterCPP(Z_Construct_UPackage__Script_TopDownShooterCPP, TEXT("/Script/TopDownShooterCPP"), Z_Registration_Info_UPackage__Script_TopDownShooterCPP, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB1EFDCBE, 0x5654947A));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TopDownShooterCPP(Z_Construct_UPackage__Script_TopDownShooterCPP, TEXT("/Script/TopDownShooterCPP"), Z_Registration_Info_UPackage__Script_TopDownShooterCPP, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x326739B2, 0x1A1803CF));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
