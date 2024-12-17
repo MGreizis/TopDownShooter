@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\projects\\Unreal Projects\\TopDownShooterCPP\\Source\\TopDownShooterCPP\\TopDownShooterCPP.Build.cs",
+		"D:\\projects\\Unreal Projects\\TopDownShooterCPP\\Source\\TopDownShooterCPP.Target.cs",
+		"D:\\projects\\Unreal Projects\\TopDownShooterCPP\\Source\\TopDownShooterCPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
